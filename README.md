@@ -1,4 +1,4 @@
-# Medical_insurance_Prediction
+# Medical_Insurance_Prediction
 The main aim of this project is to predict medical costs charged by health insurance companies based on various features and also to analyse how these factors are related to the medical charges. Here,the independent features are age, gender, body mass index (BMI), number of children, smoking status and region. The dependent feature is medical costs charged by insurance company which is labelled as charges. 
 
 # **Data Description:**
